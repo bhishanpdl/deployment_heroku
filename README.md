@@ -1,6 +1,8 @@
-# Build and deploy your first machine learning web app
+# Deploying apps to heroku using pycaret
 - https://www.kdnuggets.com/2020/05/build-deploy-machine-learning-web-app.html
-Website: https://pycaret-insurance-bhishan.herokuapp.com/
+
+# Heroku
+- deployed website: https://pycaret-insurance-bhishan.herokuapp.com/
 
 Wait about 10 mintues for heroku to deploy the model.
 
