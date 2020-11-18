@@ -5,7 +5,7 @@
 
 # Heroku
 - deployed website: https://pycaret-insurance-bhishan.herokuapp.com/
-- 550 free dyno hours for free plans and upto 5 apps
+- 550 free dyno hours for free plans and upto 5 apps [per month](https://devcenter.heroku.com/articles/free-dyno-hours).
 - extra 450 hours and upto 100 apps for credit card verified free plan.
 - When request is sent app will be open for 30 minutes, and will be idle.
 - If we enable Automatic Github Deployment, it will consume 30 mintues for each
